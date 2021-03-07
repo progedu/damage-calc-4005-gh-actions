@@ -14,8 +14,7 @@
 - 実効防御力は、防御力 - 防御力貫通 で定義され、この実効防御力は、0未満にはならない。
 - ダメージ減少率は、実効防御力 / (100 + 実効防御力) で定義され、
   ダメージは、攻撃力 * (1 - ダメージ減少率) を小数点以下で四捨五入した値となる。
-
-https://github.com/RR-J/damage-calc-4005-gh-actions/workflows/Damage%20Calculation%20Test/badge.svg
+![](https://github.com/RR-J/damage-calc-4005-gh-actions/workflows/amage%20Calculation%20Test/badge.svg)
 
 ## 使い方
 
